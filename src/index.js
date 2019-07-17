@@ -1,3 +1,3 @@
-import App from './ScrollToTop';
+import ScrollToTop from './ScrollToTop';
 
-export default App;
+export default ScrollToTop;
